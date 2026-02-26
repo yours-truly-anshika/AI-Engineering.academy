@@ -46,20 +46,21 @@ CoT rollouts take this concept further by generating multiple reasoning paths fo
 
 1. **Self-consistency decoding**
 
-   - Generate multiple solution paths
-   - Compare the different approaches
-   - Choose the most commonly reached conclusion
+    - Generate multiple solution paths
+    - Compare the different approaches
+    - Choose the most commonly reached conclusion
 
 2. **Complexity-based evaluation**
 
-   - Assess the depth of each reasoning chain
-   - Consider the thoroughness of each approach
-   - Select solutions with comprehensive reasoning
+    - Assess the depth of each reasoning chain
+    - Consider the thoroughness of each approach
+    - Select solutions with comprehensive reasoning
 
 3. **Human validation integration**
-   - Use human expertise when rollouts disagree
-   - Validate critical decision points
-   - Refine the reasoning process
+
+    - Use human expertise when rollouts disagree
+    - Validate critical decision points
+    - Refine the reasoning process
 
 ---
 
@@ -212,14 +213,14 @@ Generated Knowledge Prompting enhances AI responses by first generating relevant
 
 1. **Knowledge Generation Phase**
 
-   - Generate relevant facts and context
-   - Identify key concepts
-   - Establish relationships between ideas
+    - Generate relevant facts and context
+    - Identify key concepts
+    - Establish relationships between ideas
 
 2. **Knowledge Integration Phase**
-   - Incorporate generated knowledge
-   - Formulate comprehensive response
-   - Ensure contextual accuracy
+    - Incorporate generated knowledge
+    - Formulate comprehensive response
+    - Ensure contextual accuracy
 
 ### Benefits
 
