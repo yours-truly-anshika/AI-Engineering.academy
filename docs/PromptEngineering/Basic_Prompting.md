@@ -116,20 +116,20 @@ two beginner-friendly projects to start with.
 
 1. **Be Specific**
 
-   - Clear instructions get better results
-   - Avoid vague or ambiguous language
-   - State your expectations clearly
+    - Clear instructions get better results
+    - Avoid vague or ambiguous language
+    - State your expectations clearly
 
 2. **Start Simple**
 
-   - Begin with zero-shot prompting
-   - Add complexity only when needed
-   - Iterate based on results
+    - Begin with zero-shot prompting
+    - Add complexity only when needed
+    - Iterate based on results
 
 3. **Test and Refine**
-   - Try different approaches
-   - Combine techniques when appropriate
-   - Learn from successful prompts
+    - Try different approaches
+    - Combine techniques when appropriate
+    - Learn from successful prompts
 
 ## Common Pitfalls to Avoid
 

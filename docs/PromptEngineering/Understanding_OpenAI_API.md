@@ -16,26 +16,26 @@ Here is a list of providers that are compatible with the OpenAI API, allowing de
 
 - **Groq**
 
-  - Groq provides an API that is mostly compatible with OpenAI's client libraries. Users can configure their applications to run on Groq by changing the `base_url` and using a Groq API key.
+    - Groq provides an API that is mostly compatible with OpenAI's client libraries. Users can configure their applications to run on Groq by changing the `base_url` and using a Groq API key.
 
 - **Mistral AI**
 
-  - Mistral offers an API that supports OpenAI-compatible requests. Developers can access various models through this service.
+    - Mistral offers an API that supports OpenAI-compatible requests. Developers can access various models through this service.
 
 - **Hugging Face**
 
-  - Hugging Face provides access to numerous models via an API that can be configured similarly to OpenAI's. It is well-known for its extensive model library.
+    - Hugging Face provides access to numerous models via an API that can be configured similarly to OpenAI's. It is well-known for its extensive model library.
 
 - **Google Vertex AI**
 
-  - Google Vertex AI allows users to interact with large language models in a manner consistent with OpenAI's API.
+    - Google Vertex AI allows users to interact with large language models in a manner consistent with OpenAI's API.
 
 - **Microsoft Azure OpenAI**
 
-  - Microsoft provides access to OpenAI models through its Azure platform, enabling integration with existing Azure services.
+    - Microsoft provides access to OpenAI models through its Azure platform, enabling integration with existing Azure services.
 
 - **Anthropic**
-  - Anthropic's models can also be accessed through an API that mimics OpenAI's structure, allowing for similar interactions.
+    - Anthropic's models can also be accessed through an API that mimics OpenAI's structure, allowing for similar interactions.
 
 These providers enable developers to leverage different AI capabilities while maintaining compatibility with the familiar OpenAI API structure, facilitating easier integration into applications and workflows.
 
